@@ -11,7 +11,8 @@ class FireworkRs < Formula
   if OS.linux?
     url "https://github.com/Wayoung7/firework-rs/releases/download/v0.2.0/firework-rs-v0.2.0-x86_64-linux.tar.xz"
     sha256 "361749cc0a8efdc0f1db4616d674215d21eb35da91846ccf27a7ba3a2a6b2682"
-
+  end
+  
   def install
     bin.install "firework"
   end
