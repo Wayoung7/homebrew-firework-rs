@@ -4,7 +4,7 @@ This repository is for firework-rs homebrew uploading.
 
 See the original project for more information: [firework-rs](https://github.com/Wayoung7/firework-rs)
 
-## Installation (Only For MacOS)
+## Installation
 
 Run the following command:
 
